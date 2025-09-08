@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+ul {
+    background: white;
+}
+
+.verde{
+    color: green;
+    background: grey;
+}
+.vermelho{
+    color: red;
+    background-color: grey;
+    text-align: center;
+}
+.azul{
+    color: blue;
+    background: grey;
+    text-align: end;
+}
+.roxo{
+    color: purple;
+    background: grey;
+    text-align: center;
+}
+.amarelo{
+    color: yellow;
+    background: grey;
+}
+.rosa{
+    color: pink;
+    background: grey;
+    text-align: center;
+}
+
+
+body {
+     background-color:yellow;
+}
+
+
+

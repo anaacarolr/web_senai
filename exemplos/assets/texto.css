@@ -1,0 +1,18 @@
+p {
+    color: red;
+}
+.text-black {
+    color:red;
+    background: black;
+    display: inline;
+}
+#text-maior {
+    font-size: 32px;
+    font-family: "Brush Script MT";
+}
+
+#text-maior:hover {
+    color:blue;
+    font-size: 32px;
+    font-family: "Brush Script MT";
+}
